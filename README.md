@@ -10,6 +10,7 @@ shazny ramlan
 - LL.B. (Hons), NUS, 2018
 
 ### research experience
+(learn more about my research [here] (research.md)
 
 - Research Associate, NUS Law, 2021-2023
 - Research Assistant, Centre for Asian Legal Studies, NUS, 2018-2021
